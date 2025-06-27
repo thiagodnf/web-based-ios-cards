@@ -10,7 +10,7 @@ Replicates iOS-style cards using HTML and CSS
 
 ## 1. Screenshots
 
-<img src="images/screenshot.png" />
+<img src="images/screenshot.png" width="650px" />
 
 ## 2. Questions or Suggestions
 
