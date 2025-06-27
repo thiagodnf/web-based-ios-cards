@@ -1,4 +1,6 @@
-# web-based-ios-cards
+# Web-based iOS Cards
+
+Replicates iOS-style cards using HTML and CSS
 
 ## Screenshots
 
