@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Web-based iOS Cards</title>
+
+    <!-- Vendors -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <main>
+
+        <h1>Weather</h1>
+
+        <div class="row">
+            <div class="card">
+                <div class="title">
+                    <i class="bi bi-thermometer"></i>
+                    <span class="ps-2">Feels Like</span>
+                </div>
+                <div class="content">
+                    <div class="primary">14 mi</div>
+                </div>
+                <div class="footer">
+                    Similar to the actual temperature
+                </div>
+            </div>
+            <div class="card">
+                <div class="title">
+                    <i class="bi bi-thermometer"></i>
+                    <span>Precipitation</span>
+                </div>
+                <div class="content">
+                    <div class="primary">.25"</div>
+                    <div class="secondary">Today</div>
+                </div>
+                <div class="footer">
+                    .3" expected tomorrow
+                </div>
+            </div>
+            <div class="card">
+                <div class="title">
+                    <i class="bi bi-thermometer"></i>
+                    <span>UV Index</span>
+                </div>
+                <div class="content">
+                    <div class="primary">7</div>
+                    <div class="secondary">High</div>
+                    <div class="gradient">
+                        <div class="inners" style="left: 80%"></div>
+                    </div>
+                </div>
+                <div class="footer">
+                    Use sun protection until 6pm.
+                </div>
+            </div>
+        </div>
+
+        <h1>Health</h1>
+
+        <div class="row">
+            <div class="card card-health" style="height: 80px; width: 200px;">
+                <div class="title" style="color: orange;">
+                    <div>
+                        <i class="bi bi-speedometer"></i>
+                        <span class="ps-2">Walking Speed</span>
+                    </div>
+                    <div class="navigation">
+                        Yesterday
+                        <i class="bi bi-chevron-right"></i>
+                    </div>
+                </div>
+                <div class="content">
+                    <span class="value">1.8</span>
+                    <span class="unit">MPH</span>
+                </div>
+            </div>
+            <div class="card card-health" style="height: 80px; width: 200px;">
+                <div class="title" style="color: purple;">
+                    <div>
+                        <i class="bi bi-speedometer"></i>
+                        <span class="ps-2">Weight</span>
+                    </div>
+                    <div class="navigation">
+                        11:12 AM
+                        <i class="bi bi-chevron-right"></i>
+                    </div>
+                </div>
+                <div class="content">
+                    <span class="value">81</span>
+                    <span class="unit">kg</span>
+                </div>
+            </div>
+            <div class="card card-health" style="height: 80px; width: 200px;">
+                <div class="title" style="color: red;">
+                    <div>
+                        <i class="bi bi-fire"></i>
+                        <span class="ps-2">Physical Effort</span>
+                    </div>
+                    <div class="navigation">
+                        10:34 AM
+                        <i class="bi bi-chevron-right"></i>
+                    </div>
+                </div>
+                <div class="content">
+                    <span class="label">Latest</span>
+                    <span class="value">81</span>
+                    <span class="unit">METs</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="card card-health">
+                <div class="title" style="color: #EB5829;">
+                    <div>
+                        <i class="bi bi-fire"></i>
+                        <span class="ps-2">Activity</span>
+                    </div>
+                    <div class="navigation">
+                        Yesterday
+                        <i class="bi bi-chevron-right"></i>
+                    </div>
+                </div>
+                <div class="content trio d-flex justify-content-start">
+                    <div class="">
+                        <span class="label red bold">Move</span>
+                        <span class="value">273</span>
+                        <span class="unit">cal</span>
+                    </div>
+                    <div class="v-separator"></div>
+                    <div class="">
+                        <span class="label green bold">Exercise</span>
+                        <span class="value">3</span>
+                        <span class="unit">min</span>
+                    </div>
+                    <div class="v-separator"></div>
+                    <div>
+                        <span class="label blue bold">Stand</span>
+                        <span class="value">7</span>
+                        <span class="unit">hr</span>
+                    </div>
+                </div>
+            </div>
+            <div class="card card-health">
+                <div class="title" style="color: #EB5829;">
+                    <div>
+                        <i class="bi bi-fire"></i>
+                        <span class="ps-2">Activity</span>
+                    </div>
+                    <div class="navigation">
+                        Sleep
+                        <i class="bi bi-chevron-right"></i>
+                    </div>
+                </div>
+                <div class="content trio d-flex justify-content-start">
+                    <div class="me-3">
+                        <span class="label bold">Time Asleep</span>
+                        <span class="value">3</span>
+                        <span class="unit">hr</span>
+                    </div>
+                    <div class="me-0">
+                        <span class="label">&nbsp;</span>
+                        <span class="value">32</span>
+                        <span class="unit">min</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <script src="js/script.js" type="text/javascript"></script>
+</body>
+
+</html>
