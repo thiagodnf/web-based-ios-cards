@@ -14,7 +14,7 @@ Replicates iOS-style cards using HTML and CSS
 
 ## Questions or Suggestions
 
-Feel free to create <a href="https://github.com/thiagodnf/aco-simulator/issues">issues</a> here as you need
+Feel free to create <a href="https://github.com/thiagodnf/web-based-ios-cards/issues">issues</a> here as you need
 
 ## Contribute
 
