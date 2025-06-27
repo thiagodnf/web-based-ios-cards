@@ -8,23 +8,23 @@ Replicates iOS-style cards using HTML and CSS
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub stars](https://img.shields.io/github/stars/thiagodnf/web-based-ios-cards.svg)](https://github.com/thiagodnf/web-based-ios-cards)
 
-## Screenshots
+## 1. Screenshots
 
 <img src="images/screenshot.png" />
 
-## Questions or Suggestions
+## 2. Questions or Suggestions
 
 Feel free to create <a href="https://github.com/thiagodnf/web-based-ios-cards/issues">issues</a> here as you need
 
-## Contribute
+## 3. Contribute
 
 Contributions to this project are very welcome! We can't do this alone! Feel free to fork this project, work on it and then make a pull request.
 
-## License
+## 4. License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## Donate
+## 5. Donate
 
 I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously, this takes time. You can integrate and use these projects in your applications for free! You can even change the source code and redistribute (even resell it).
 
