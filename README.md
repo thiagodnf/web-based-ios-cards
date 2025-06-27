@@ -20,12 +20,6 @@ Feel free to create <a href="https://github.com/thiagodnf/web-based-ios-cards/is
 
 Contributions to this project are very welcome! We can't do this alone! Feel free to fork this project, work on it and then make a pull request.
 
-## Authors
-
-* **Thiago Ferreira** - *Initial work*
-
-See also the list of [contributors](https://github.com/thiagodnf/web-based-ios-cards/graphs/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
